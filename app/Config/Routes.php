@@ -7,5 +7,9 @@ use CodeIgniter\Router\RouteCollection;
  */
 // @phpstan-ignore-next-line
 $routes->get('/', 'Home::index');
+$routes->get('/about', 'About::index');
+$routes->set404Override(function() {
+    echo view('errors/not_found');
+});
 
 
