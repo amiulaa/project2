@@ -16,4 +16,4 @@ pada app/Views dengan kode dari index.html (template).
 - Commit dan Push setiap perkembangan project
 
 #HASIL
-(public/assets/img/ss hasil uts.png)
+(/Users/kelvin/ProjectWF/project2/public/assets/img/sshasiluts.png)
