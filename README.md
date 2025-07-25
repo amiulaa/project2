@@ -15,5 +15,5 @@ pada app/Views dengan kode dari index.html (template).
 - Buatlah repository dengan nama project2 pada GitHub
 - Commit dan Push setiap perkembangan project
 
-#HASIL
-(/Users/kelvin/ProjectWF/project2/public/assets/img/sshasiluts.png)
+*HASIL
+![hasil view](/Users/kelvin/ProjectWF/project2/public/assets/img/sshasiluts.png)
