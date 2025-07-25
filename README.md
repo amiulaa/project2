@@ -14,3 +14,6 @@ pada app/Views dengan kode dari index.html (template).
 2. Repository GitHub (30 poin)
 - Buatlah repository dengan nama project2 pada GitHub
 - Commit dan Push setiap perkembangan project
+
+#HASIL
+(public/assets/img/ss hasil uts.png)
